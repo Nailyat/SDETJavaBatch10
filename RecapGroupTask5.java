@@ -7,6 +7,7 @@ public class RecapGroupTask5 {
 		
 		/*
 		 * Write a java program to check whether a given number is prime or not
+		 * 
 		 */
 		
 		int n=11;
